@@ -4,8 +4,8 @@
 
 **Kijung Yoon**
 
-Day/Time: Friday, 2:00PM - 5:00PM
-Location: P211
+Day/Time: Friday, 2:00PM - 5:00PM<br>
+Location: P211<br>
 Office hours: TBA
 
 This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza.
