@@ -6,11 +6,10 @@
 
 Day/Time: Friday, 2:00PM - 5:00PM<br>
 Location: P211<br>
-Office hours: TBA
+Office hours: Friday, 5:00PM - 6:00PM @ P716
+Grading: midterm (30%) + final (30%) + assignments (35%) + participation (5%)
 
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza.
-
-Find our class page at: https://piazza.com/hongik.ac.kr/fall2018/01231318/home
+This term we will use [Piazza](https://piazza.com/hongik.ac.kr/fall2018/01231318/home) to answer questions and post announcements about the course. Students' use of Piazza, particularly for adequately answering other students' questions, will contribute toward their participation grade.
 
 #### Course Description
 
