@@ -39,3 +39,10 @@ The course, intended for students with no programming experience, provides a com
 | 12.07 | Probability and Statistics         | slide 9 |        |
 | 12.14 | Final Exam                         |         |        |
 
+#### Course Materials
+
+------------
+
+[MATLAB Primer by MathWorks](https://www.mathworks.com/help/pdf_doc/matlab/getstart.pdf)<br>
+[MATLAB Primer by Kermit Sigmon](http://www.math.toronto.edu/mpugh/primer.pdf)<br>
+[Linear Algebra Review](http://alumni.media.mit.edu/~maov/classes/vision09/lect/02_LinearAlgebraReview.pdf)
